@@ -1,0 +1,20 @@
+.green-text{
+    color: #00b050;
+}
+
+.orange-text{
+    color: #ed7d31;
+}
+
+.orange-bg{
+    background-color: #ed7d31;
+}
+
+.sign-btn:hover{
+    background-color: #fbb180;
+    opacity: 0.8;
+}
+
+.navy-text{
+    color: #200668;
+}
